@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lok The Dev</h1>
 <h3 align="center">A late-blooming software engineer from Sydney.</h3>
 
-- 🔭 I’m currently working on **Go-Do**
+- 🔭 I’m currently working on **Go-Do** !! Self-Developed, product management tool for agile development!
 
 - 💬 Ask me about **React, Node... anything about JS!**
 
