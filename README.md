@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lok The Dev</h1>
 <h3 align="center">A late-blooming software engineer from Sydney.</h3>
 
-- 🔭 I’m currently working on [Go-Do](https://github.com/LokTheDev/GODOAPI)
+- 🔭 I want to start a: Path Finder Game)
 
 - 🌱 I’m currently learning **React.JS (I Love React Native as well!)**
 
